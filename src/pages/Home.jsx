@@ -1,8 +1,9 @@
+import skull from '../assets/skull.png'
 
 const Home = () => {
   return (
     <>
-        <h1>Home</h1>
+      <img src={skull}  alt="React logo" />
     </>
   )
 }
