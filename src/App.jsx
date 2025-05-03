@@ -11,7 +11,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <Router>
+    <Router basename="/skubi_snackzz">
 
     <div className='Container Box'>
       <Header />

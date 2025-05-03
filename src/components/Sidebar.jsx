@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 const Sidebar = () => {
   return (
       <nav className="sidebar-nav">
-        <Link to="/">Home</Link>
         <Link to="/music">Music</Link>
       </nav>
   )
