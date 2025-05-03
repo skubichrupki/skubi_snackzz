@@ -59,7 +59,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 99vh;
-  max-width: 60vw;
+  width: 60vw;
 }
 
 .Content {
