@@ -3,7 +3,7 @@ const Home = () => {
   return (
     <>
       <h4>Top 3 Free Albums That Destroyed My Soul</h4>
-      <div class="album">
+      <div className="album">
         <h4>1. Knocked Loose – <em>Laugh Tracks</em></h4>
         <p>
           dude. this album makes me feel like im gonna explode.  
@@ -12,21 +12,21 @@ const Home = () => {
           this sh*t rewired my brain.
         </p>
       </div>
-      <div class="album">
+      <div className="album">
         <h4>2. Backtrack – <em>Bad to My World</em></h4>
         <p>
-          i listen to this and instantly wanna run full speed into traffic.  
-          no melody no bs just fists and pain.  
-          it’s like being punched in the chest by ur own rage.  
-          i swear this album knows all my anger personally.
+          listen to this and instantly wanna run full speed into traffic.  
+          no melody no bs just fists scream
+          it’s like being punched in the chest
+          skate the bowl in transformator to this
         </p>
       </div>
-      <div class="album">
+      <div className="album">
         <h4>3. Make Them Suffer – <em>Neverbloom</em></h4>
         <p>
-          this is what crying in the rain with blood on ur hands sounds like.  
-          the piano is like a ghost is hugging u then the growls just DRAG U STRAIGHT TO HELL.  
-          it’s sad. it’s scary. it’s everything.  
+          this is what crying in rain with blood on ur hands sounds
+          the piano is hugging u then the growls just drag you to hell  
+          fucking shit  
           i wanna be buried with this album on repeat.
         </p>
       </div>
