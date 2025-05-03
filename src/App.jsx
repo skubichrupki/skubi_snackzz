@@ -19,8 +19,8 @@ function App() {
         <Sidebar />
         <div className='PageContent Box'>
           <Routes>
-            <Route path="/skubi_snackzz/" element={<Home />} />
-            <Route path="/skubi_snackzz/music" element={<Music />} />
+            <Route path="/" element={<Home />} />
+            <Route path="/music" element={<Music />} />
           </Routes>
         </div>
       </div>
