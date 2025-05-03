@@ -1,6 +1,7 @@
 <script>
     const path = location.pathname;
-    const redirectTo = '/skubi_snackzz' + path;
-    location.replace(redirectTo);
-</script>
+    if (!path.startsWith('/skubi_snackzz')) {
+      location.replace('/skubi_snackzz' + path);
+    }
+  </script>
   
